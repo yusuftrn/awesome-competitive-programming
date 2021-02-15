@@ -4,9 +4,9 @@ Resources from USACO (unofficial) study group
 Note: **Bold** means that, this resource is generally high quality and good for beginners.
     
     Contest Sites:
-**Hackerrank**: https://www.hackerrank.com/
-**HackerEarth**: https://www.hackerearth.com/
-**Codeforces**: https://codeforces.com/  
+**Hackerrank**: https://www.hackerrank.com/  
+**HackerEarth**: https://www.hackerearth.com/  
+**Codeforces**: https://codeforces.com/    
 **CodeChef**: https://www.codechef.com/  
 DMOJ: https://dmoj.ca/  
 Facebook Hacker Cup: https://www.facebook.com/codingcompetitions/hacker-cup/  
