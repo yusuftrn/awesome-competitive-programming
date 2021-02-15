@@ -1,4 +1,4 @@
-# Awesome-Competitive-Programming
+# awesome-competitive-programming
 Resources from USACO (unofficial) study group
 
 Note: **Bold** means that, this resource is generally high quality and good for beginners.
