@@ -5,105 +5,72 @@ Note: **Bold** means that, this resource is generally high quality and good for 
     
     Contest Sites:
 
-**AtCoder**: https://atcoder.jp/
-**Codeforces**: https://codeforces.com/
-**CodeChef**: https://www.codechef.com/
-DMOJ: https://dmoj.ca/
-Facebook Hacker Cup: https://www.facebook.com/codingcompetitions/hacker-cup/
-Google Code Jam, Kick Start: https://codingcompetitions.withgoogle.com/
-Topcoder: https://www.topcoder.com/community/competitive-programming/
+**Codeforces**: https://codeforces.com/  
+**CodeChef**: https://www.codechef.com/  
+DMOJ: https://dmoj.ca/  
+Facebook Hacker Cup: https://www.facebook.com/codingcompetitions/hacker-cup/  
+Google Code Jam, Kick Start: https://codingcompetitions.withgoogle.com/  
+Topcoder: https://www.topcoder.com/community/competitive-programming/  
+  
 
     Books:
 
-**CP Handbook (Holy Bible)**: https://cses.fi/book.pdf
-**CP3**: https://bit.ly/3al5TmG, https://bit.ly/3dfjRbW
-Principles of Algorithmic Problem Solving: http://www.csc.kth.se/~jsannemo/slask/main.pdf
-The Hitchhiker's Guide to the Programming Contests: https://comscigate.com/Books/contests/icpc.pdf
+**CP Handbook (Holy Bible)**: https://cses.fi/book.pdf  
+**CP3**: https://bit.ly/3al5TmG, https://bit.ly/3dfjRbW  
+Principles of Algorithmic Problem Solving: http://www.csc.kth.se/~jsannemo/slask/main.pdf  
+The Hitchhiker's Guide to the Programming Contests: https://comscigate.com/Books/contests/icpc.pdf  
+  
 
-Bronze/Silver USACO Books by Darren Yao
-Java: http://darrenyao.com/usacobook/java.pdf
-**C++**: http://darrenyao.com/usacobook/cpp.pdf(düzenlendi)
-Mostafa Public Problem Lists: https://docs.google.com/spreadsheets/d/1-n9Fnvhsnvsqh-IerE_yyIshw5RUNer_7EjwF_GW-TA/
-Junior Training Sheet: https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/
-OI Checklist: http://oichecklist.pythonanywhere.com/
-USACO FAQ: https://darren-yao.gitbook.io/darren-s-blog/usaco-faq
-USACO Guide: https://usaco.guide/
-USACO Tracker Spreadsheets: https://codeforces.com/blog/entry/78158
-USACO Unofficial Syllabus: https://www.overleaf.com/read/fktckfprxyxn 
+Bronze/Silver USACO Books by Darren Yao  
+Java: http://darrenyao.com/usacobook/java.pdf  
+**C++**: http://darrenyao.com/usacobook/cpp.pdf(düzenlendi)  
+  
+Mostafa Public Problem Lists: https://docs.google.com/spreadsheets/d/1-n9Fnvhsnvsqh-IerE_yyIshw5RUNer_7EjwF_GW-TA/  
+Junior Training Sheet: https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/  
+OI Checklist: http://oichecklist.pythonanywhere.com/  
+USACO FAQ: https://darren-yao.gitbook.io/darren-s-blog/usaco-faq  
+USACO Guide: https://usaco.guide/  
+USACO Tracker Spreadsheets: https://codeforces.com/blog/entry/78158  
+USACO Unofficial Syllabus: https://www.overleaf.com/read/fktckfprxyxn   
 *Note that the above syllabus does not guarantee that future problems will only use the mentioned topics, it is only based on past problems.*
+  
 
     Algorithm Resources:
 
-Aeren's Template: https://github.com/FlowerOfSorrow/Template
-Algorithms Visualized: https://visualgo.net/
-Atcoder Library: https://img.atcoder.jp/practice2/ac-library.zip
-Codeforces EDU: https://codeforces.com/edu/courses
-CP Algorithms: http://cp-algorithms.com/
-IOI Syllabus: https://ioinformatics.org/page/syllabus/12 (topics not on here can appear on Platinum as well)
-KACTL: https://github.com/kth-competitive-programming/kactl
-Library Checker: https://judge.yosupo.jp/
-User-made ICPC Syllabus: https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit
+Aeren's Template: https://github.com/FlowerOfSorrow/Template  
+Algorithms Visualized: https://visualgo.net/  
+Atcoder Library: https://img.atcoder.jp/practice2/ac-library.zip  
+Codeforces EDU: https://codeforces.com/edu/courses  
+CP Algorithms: http://cp-algorithms.com/  
+IOI Syllabus: https://ioinformatics.org/page/syllabus/12 (topics not on here can appear on Platinum as well)  
+KACTL: https://github.com/kth-competitive-programming/kactl  
+Library Checker: https://judge.yosupo.jp/  
+User-made ICPC Syllabus: https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit  
 
-Contest Calendar: https://clist.by/ (includes non-CP competitions as well)
+Contest Calendar: https://clist.by/ (includes non-CP competitions as well)  
 
-    Olympiad in Informatics:
-
-AIO, FARIO: https://orac.amt.edu.au/cgi-bin/train/hub.pl
-AIPO: https://www.acmicpc.net/category/356
-APIO: https://oj.uz/problems/source/26
-BkOI: https://oj.uz/problems/source/111
-BOI: https://cses.fi/boi/list/
-CEOI: https://cses.fi/ceoi/list/
-CCC: https://dmoj.ca/problems/?category=4 
-CCO: https://dmoj.ca/problems/?category=24
-COCI: https://oj.uz/problems/source/122, https://dmoj.ca/problems/?category=13
-COI: https://oj.uz/problems/source/221, https://www.acmicpc.net/category/25
-EJOI: https://www.acmicpc.net/category/424
-EOI: https://codeforces.com/group/swEqtABRxe/join
-Infoarena (includes RMI): https://infoarena.ro/
-infO(1) Cup: https://oj.uz/problems/source/319
-INOI: https://www.codechef.com/INOIPRAC
-IZhO: https://oj.uz/problems/source/24
-IOI: https://oj.uz/problems/source/22
-JOI: https://oj.uz/problems/source/45
-LOI: https://www.acmicpc.net/category/198
-MCO: https://ioimalaysia.org/resource/for-student/practice/
-NOI: https://www.acmicpc.net/category/425, https://cses.fi/241/list/
-NOI.PH: https://noi.ph/past-problems/, https://codeforces.com/group/Sw3sdIlMPV/join
-NOI-CN: https://dmoj.ca/problems/?category=40
-NOI-SG: https://oj.uz/problems/source/151
-OBI: https://olimpiada.ic.unicamp.br/
-OMI: https://www.olimpiadadeinformatica.org.mx/OMI/OMI/Problemas/Problemas_2017.aspx
-Old USACO Contests: https://www.acmicpc.net/category/106
-POI: https://szkopul.edu.pl/task_archive/oi/
-RMI: https://oj.uz/problems/source/448, on infoarena for older
-SACO: https://saco-evaluator.org.za/cms/
-TOKI: https://tlx.toki.id/
-UOI: https://contests.oi.in.ua/
-USACO: http://usaco.org/index.php?page=contests
-VNOI: https://codeforces.com/group/FLVn1Sc504/contests
-ZCO: https://www.codechef.com/ZCOPRAC
 
     Other Online Judges:
 
-CS Academy: https://csacademy.com/about/
-CSES: https://cses.fi/problemset/
-Kattis: https://open.kattis.com/
-POJ: http://poj.org/
-SPOJ: https://www.spoj.com/
-Timus: https://acm.timus.ru/?locale=en
-UVa: https://onlinejudge.org/(düzenlendi)
+CS Academy: https://csacademy.com/about/  
+CSES: https://cses.fi/problemset/  
+Kattis: https://open.kattis.com/  
+POJ: http://poj.org/  
+SPOJ: https://www.spoj.com/  
+Timus: https://acm.timus.ru/?locale=en  
+UVa: https://onlinejudge.org/(düzenlendi)  
+
 Useful Articles (dm if you want to add one or post in #suggestions):
-Article Collections/Blogs:
-A Simple Blog: https://robert1003.github.io/
-Awesome CP: https://github.com/lnishan/awesome-competitive-programming
-Bits and Bytes: https://bits-and-bytes.me/
-DP Tutorial and Problem List: https://codeforces.com/blog/entry/67679
-Errichto Learning Resources: https://github.com/Errichto/youtube/wiki/Learning-resources
-Informatics Notes: https://sendtoaryansh.gitbook.io/informatics-notes/
-List of Some Useful CF Blogs: https://codeforces.com/blog/entry/13529
-Resources Google Drive: https://drive.google.com/drive/folders/15LY8QFBXrshY1YqB8nQdhLVaL1E9_mMy?usp=sharing
-TJ SCT: https://activities.tjhsst.edu/sct/
+Article Collections/Blogs:  
+A Simple Blog: https://robert1003.github.io/  
+Awesome CP: https://github.com/lnishan/awesome-competitive-programming  
+Bits and Bytes: https://bits-and-bytes.me/  
+DP Tutorial and Problem List: https://codeforces.com/blog/entry/67679  
+Errichto Learning Resources: https://github.com/Errichto/youtube/wiki/Learning-resources  
+Informatics Notes: https://sendtoaryansh.gitbook.io/informatics-notes/  
+List of Some Useful CF Blogs: https://codeforces.com/blog/entry/13529  
+Resources Google Drive: https://drive.google.com/drive/folders/15LY8QFBXrshY1YqB8nQdhLVaL1E9_mMy?usp=sharing  
+TJ SCT: https://activities.tjhsst.edu/sct/  
 
     Specific Articles:
 
