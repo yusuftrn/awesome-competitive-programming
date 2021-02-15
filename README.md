@@ -4,7 +4,8 @@ Resources from USACO (unofficial) study group
 Note: **Bold** means that, this resource is generally high quality and good for beginners.
     
     Contest Sites:
-
+**Hackerrank**: https://www.hackerrank.com/
+**HackerEarth**: https://www.hackerearth.com/
 **Codeforces**: https://codeforces.com/  
 **CodeChef**: https://www.codechef.com/  
 DMOJ: https://dmoj.ca/  
@@ -108,7 +109,9 @@ unordered_map tips: https://codeforces.com/blog/entry/21853
 XOR Basis: https://codeforces.com/blog/entry/68953  
 XOR Techniques: https://codeforces.com/blog/entry/68953  
 
-**Youtube Channels:** 
+
+    Youtube Channels:
+
 Algorithms Conquered:[https://www.youtube.com/channel/UCVp5MlM5aQbhObh5JYlgHUw](https://www.youtube.com/channel/UCVp5MlM5aQbhObh5JYlgHUw "https://www.youtube.com/channel/UCVp5MlM5aQbhObh5JYlgHUw")   
 Algorithms Live!: [https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w "https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w")   
 benritmicocode: [https://www.youtube.com/channel/UCSQmpb_K_I37JN-QLArZbFw](https://www.youtube.com/channel/UCSQmpb_K_I37JN-QLArZbFw "https://www.youtube.com/channel/UCSQmpb_K_I37JN-QLArZbFw")   
